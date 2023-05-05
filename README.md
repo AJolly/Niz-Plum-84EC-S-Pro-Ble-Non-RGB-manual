@@ -42,6 +42,10 @@ Do it again to switch back to office mode.
 * Fn + BT 1 or BT 2 or BT 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
 * Fn + BT 🔋 : while the keyboard is connected by USB or charging, this key toggles between connecting via the USB connection or connecting via Bluetooth while charging.
 
+* F9 = BT1  
+* F10 = BT2  
+* F11 = BT3  
+* F12 = BT-USB key  
 <br>
 
 
